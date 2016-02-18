@@ -1,0 +1,174 @@
+[{
+  "mbid": "512a99a5-2abe-411a-947c-037b92c00521",
+  "aliases": [],
+  "fullName": "Jean Laforge",
+  "sortName": "Laforge, Jean",
+  "type": "Person"
+}, {
+  "mbid": "33ff592d-0cf8-4d40-895d-993aad15d311",
+  "aliases": [],
+  "fullName": "Georges Prêtre",
+  "sortName": "Prêtre, Georges",
+  "type": "Person"
+}, {
+  "mbid": "9dee40b2-25ad-404c-9c9a-139feffd4b57",
+  "aliases": ["Μαρία Κάλλας"],
+  "fullName": "Maria Callas",
+  "type": "Person"
+}, {
+  "mbid": "a57a7265-00f6-4d4b-809d-c0e734569796",
+  "aliases": ["National Theater Opera Orchestra of Paris", "Orchestre du Théâtre National de l'Opéra de Paris", "Paris Opera Orchestra"],
+  "fullName": "Orchestre de l'Opéra National de Paris",
+  "type": "Orchestra"
+}, {
+  "mbid": "231ba8f6-b8b6-43a5-a6d7-5739c2c3f2d3",
+  "aliases": ["Choeurs Rene Duclos"],
+  "fullName": "Chœur René Duclos",
+  "type": "Choir"
+}, {
+  "mbid": "9bd20e6a-b41d-4983-a5b6-c0ff849fa235",
+  "aliases": ["Bizet", "Bizet Georges", "G. Bizet", "George Bizet", "Georges Bizet,Domingo", "Бизе", "ビゼー", "조르주 비제"],
+  "fullName": "Georges Bizet",
+  "sortName": "Bizet, Georges",
+  "type": "Person"
+}, {
+  "mbid": "c2431abf-0fef-48eb-b1fe-3bf3b506c432",
+  "aliases": ["Chœur du Théâtre de la Scala de Milan", "Coro Polifonico del Teatro alla Scala", "La Scala Chorus"],
+  "fullName": "Coro del Teatro alla Scala di Milano",
+  "type": "Choir"
+}, {
+  "mbid": "a8a96598-a77f-4e34-9860-f5f663d33b25",
+  "aliases": ["La Scala Orchestra", "La Scala Theater Orchestra", "Orchestre du Théâtre de la Scala de Milan"],
+  "fullName": "Orchestra del Teatro alla Scala di Milano",
+  "type": "Group"
+}, {
+  "mbid": "eaac4e33-da89-4859-9201-c9e70bad086f",
+  "aliases": ["Alferdo Catalani", "Catalani", "Catalini"],
+  "fullName": "Alfredo Catalani",
+  "type": "Person"
+}, {
+  "mbid": "1332d94d-19c5-4895-8e39-f6dc04836eba",
+  "aliases": ["Tullo Serafin"],
+  "fullName": "Tullio Serafin",
+  "type": "Person"
+}, {
+  "mbid": "165cb417-7122-4d69-ad7b-68a081f5ec65",
+  "aliases": [],
+  "fullName": "Gabriele Santini",
+  "type": "Person"
+}, {
+  "mbid": "e3d1c4a4-d64e-4afa-9fc7-264fb871d0e0",
+  "aliases": ["Giordano", "Umberto Menotti Maria Giordano"],
+  "fullName": "Umberto Giordano",
+  "type": "Person"
+}, {
+  "mbid": "6f5bfd20-84cc-4879-8a40-05631ad576c7",
+  "aliases": ["Belini", "Bellini", "V. Bellini", "Vincenzo Salvatore Carmelo Francesco Bellini", "Vinenzo Bellini", "ベルリーニ"],
+  "fullName": "Vincenzo Bellini",
+  "type": "Person"
+}, {
+  "mbid": "5610302e-bfd9-421c-80e2-03d790a0f5e5",
+  "aliases": ["London Philharmonia Orchestra", "Neues Philharmonia Orchester London", "New Phil", "New Philarmonia Orchestra", "New Philharmonia Orchestra", "New Philharmonia Orchestra London", "Philarmonia Orchestra", "Philharmonia Orchestra of London", "Philharmonica Orchestra", "The Philharmonia", "The Philharmonia Orchestra"],
+  "fullName": "Philharmonia Orchestra",
+  "type": "Orchestra"
+}, {
+  "mbid": "a693df4a-8762-4a45-b7fd-6695b558385e",
+  "aliases": ["Džakomo Pučīni", "G. Puccini", "Gacomo Puccini", "Giacomo Antonio Domenico Michele Secondo Maria Puccini", "Giacomo Pucchini", "Giacomo Puccini (1858-1924)", "Puccini", "プッチーニ", "푸치니"],
+  "fullName": "Giacomo Puccini",
+  "type": "Person"
+}, {
+  "mbid": "edc2472e-3dd6-4a5d-8012-e15dc940612a",
+  "aliases": [],
+  "fullName": "Victor de Sabata",
+  "type": "Person"
+}, {
+  "mbid": "d2ced2f1-6b58-47cf-ae87-5943e2ab6d99",
+  "aliases": ["Herbert von Karajan", "Herbert von Karajan", "Heribert Ritter von Karajan", "Karajan", "Karajan, Herbert von", "ヘルベルト・ヴォン・カラヤン"],
+  "fullName": "Herbert von Karajan",
+  "type": "Person"
+}, {
+  "mbid": "b8ecf204-6be8-4041-ab11-6d9971ea2711",
+  "aliases": ["A. Donizetti", "Domenico Gaetano Maria Donizetti", "Donizetti", "Donizetti, Gaetano", "G. Donizetti", "GAETANO DOMIZETTI", "Geatano Donizetti"],
+  "fullName": "Gaetano Donizetti",
+  "type": "Person"
+}, {
+  "mbid": "be9eb7e8-feba-4616-857e-96c9465c90da",
+  "aliases": ["Orchestra sinfonica di Roma della RAI", "RAI Symphony Orchestra of Rome"],
+  "fullName": "Orchestra sinfonica di Roma della RAI",
+  "type": "Orchestra"
+}, {
+  "mbid": "1185b97a-28e4-414e-a562-3b6d51eccb95",
+  "aliases": ["Antonio Votto"],
+  "fullName": "Antonino Votto",
+  "type": "Person"
+}, {
+  "mbid": "5683adf4-8300-45b1-9460-adc7a1020a46",
+  "aliases": ["Salvatore Cammarano"],
+  "fullName": "Salvadore Cammarano",
+  "type": "Person"
+}, {
+  "mbid": "f1bedf1f-4445-4651-9c35-f4a3f3860a13",
+  "aliases": ["Džuzepe Verdi", "G. Verdi", "Giseppe Verdi", "Giuseppe Verdi", "Giuseppi Verdi", "Giusseppe Verdi", "Guiseppe Verdi", "La Traviata", "Verdi", "Verdi Va", "Verdi, Giuseppe", "ジュゼッペ・ヴェルディ", "ヴェルディ"],
+  "fullName": "Giuseppe Verdi",
+  "type": "Person"
+}, {
+  "mbid": "29ae32d0-7918-4484-b690-874b1c5994d4",
+  "aliases": ["Fancesco Cilea"],
+  "fullName": "Francesco Cilea",
+  "type": "Person"
+}, {
+  "mbid": "2d00ea41-56ab-4531-92bc-52ba4b946293",
+  "aliases": ["Chorus of the Maggio Musicale Fiorentino", "Coro del Maggio Musicale Fiorentino"],
+  "fullName": "Coro del Maggio Musicale Fiorentino",
+  "type": "Group"
+}, {
+  "mbid": "acfa74c8-af58-4327-bbd7-53b81d00d7c2",
+  "aliases": ["Orchestre De La Societe Des Concerts Du Conservatoiree", "Orchestre du Conservatoire de Paris", "PCO", "Paris Conservatory Orchestra"],
+  "fullName": "Orchestre de la Société des Concerts du Conservatoire",
+  "type": "Orchestra"
+}, {
+  "mbid": "4137c070-15b2-4d00-a9f0-3517d02a9ba8",
+  "aliases": ["C. Saint-Saens", "C. Saint-Sakns", "Camile Saint-Saens", "Camille Saint", "Camille Saint Saens", "Camille Saint-Saens", "Camille Saint-Sanns", "Camille Saints-Saens", "Camille St-Saëns", "Camillle Saint-Saëns", "Cammille Saint-Saëns", "Charles Camille Saint-Saëns", "Kamils Sensānss", "Sain-Saëns", "Saint Saens", "Saint Saens, Camille", "Saint-Saens", "Saint-Saens, Camille", "Saint-Saens, Camille (1835-1921)", "Saint-Saëns", "Saint-Seans", "サン゠サーンス"],
+  "fullName": "Camille Saint‐Saëns",
+  "type": "Person"
+}, {
+  "mbid": "9a563a72-61ae-4b06-a9a9-6328e62d7ab0",
+  "aliases": ["Maggio Musicale Fiorentino Orchestra", "Orchestra del Teatro Comunale di Firenze"],
+  "fullName": "Orchestra del Maggio Musicale Fiorentino",
+  "type": "Group"
+}, {
+  "mbid": "0907c476-46f7-4259-ba15-931725028d89",
+  "aliases": [],
+  "fullName": "Alceo Galliera",
+  "type": "Person"
+}, {
+  "mbid": "4b37d6a8-bb03-4695-99f5-177f4ff5e891",
+  "aliases": [],
+  "fullName": "Jane Berbié",
+  "type": "Person"
+}, {
+  "mbid": "846be3c9-5f94-46ab-97b9-531335dd3658",
+  "aliases": ["Džoakīno Rosīni", "G. Rossini", "Giaccomo Rossini", "Giacomo Rossini", "Giaocchino Rossini", "Gioacchino Rossini", "Gioaccino Rossini", "Gioachino Antonio Rossini", "Gioachino Antonio Rossini (1792-1868)", "Rossini", "Rossini Gioacchino Antonio", "ロッシーニ", "로시니"],
+  "fullName": "Gioachino Rossini",
+  "type": "Person"
+}, {
+  "mbid": "4e6a3559-e86b-4adb-8f27-fb82ab86d008",
+  "aliases": [],
+  "fullName": "Nadine Sautereau",
+  "type": "Person"
+}, {
+  "mbid": "2691fdf4-8ea8-4925-bc2a-14d5d8c8b472",
+  "aliases": ["Orchestre National de la R.T.F.", "Orchestre national de la RTF", "The French National Radio Orchestra"],
+  "fullName": "Orchestre National de la Radiodiffusion Française",
+  "type": "Orchestra"
+}, {
+  "mbid": "6d5015c6-997a-4785-b9fa-73d02c2d7e89",
+  "aliases": [],
+  "fullName": "Nicola Rescigno",
+  "type": "Person"
+}, {
+  "mbid": "22790383-30ea-4dcc-a8d6-882fb1eb4669",
+  "aliases": ["C. W. Gluck", "CW Gluck", "Chr.W. van Gluck", "Christop Willibald Gluck", "Christoph Gluck", "Christoph Willibald Gluk", "Christoph Willibald Ritter von Gluck", "Christoph Willibald von Gluck", "Christopher Gluck", "Christph Willibald Gluck", "Gluck", "Gluck, Christoph W.", "Gluck, Christoph Willibald", "Glück", "グルック"],
+  "fullName": "Christoph Willibald Gluck",
+  "type": "Person"
+}]

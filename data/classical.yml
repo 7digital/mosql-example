@@ -12,4 +12,31 @@ classical:
       - lastModified: DATE
     :meta:
       :table: artists
-      :extra_props: true
+  contributions:
+    :columns:
+      - id:
+        :source: _id
+        :type: TEXT
+      - mbid: TEXT
+      - productId: INTEGER
+      - role: TEXT
+      - name: TEXT
+      - trackId: INTEGER
+    :meta:
+      :table: contributions
+  products:
+    :columns:
+      - id:
+        :source: _id
+        :type: TEXT
+      - productId: INTEGER
+      - lastModified: DATE
+      - source: TEXT
+      - labelGroupName: TEXT
+      - labelGroupId: INTEGER
+      - labelName: TEXT
+      - labelId: INTEGER
+      - upcCode: TEXT
+      - tracks: JSON
+    :meta:
+      :table: products

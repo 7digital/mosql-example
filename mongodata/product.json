@@ -1,0 +1,166 @@
+[{
+  "productId": 3820853,
+  "lastModified": "2015-10-07T15:55:29.477Z",
+  "tracks": [{
+    "isrc": "GBAYC1402623",
+    "title": "Bizet: Carmen, Act 1: \"L'amour est un oiseau rebelle\" (Carmen, Chorus) [Habanera]",
+    "trackId": 39725588
+  }, {
+    "isrc": "GBAYC1401979",
+    "title": "Bellini: Norma, Act 1: \"Casta diva\" (Norma, Chorus)",
+    "trackId": 39725589
+  }, {
+    "isrc": "GBAYC1402624",
+    "title": "Puccini: Gianni Schicchi, Act 1: \"O mio babbino caro\" (Lauretta)",
+    "trackId": 39725591
+  }, {
+    "isrc": "GBAYC1402625",
+    "title": "Catalani: La Wally, Act 1: \"Ebben?...Ne andrò lontana\" (Wally)",
+    "trackId": 39725593
+  }, {
+    "isrc": "GBAYC1402638",
+    "title": "Verdi: La traviata, Act 1: \"Ah fors'e lui\" (Violetta)",
+    "trackId": 39725596
+  }, {
+    "isrc": "GBAYC1402626",
+    "title": "Verdi: La traviata, Act 1: \"Sempre libera\" (Violetta, Alfredo)",
+    "trackId": 39725597
+  }, {
+    "isrc": "GBAYC1402627",
+    "title": "Puccini: Tosca, Act 2: \"Vissi d'arte\" (Tosca)",
+    "trackId": 39725599
+  }, {
+    "isrc": "GBAYC1402628",
+    "title": "Puccini: Madama Butterfly, Act 2: \"Un bel di vedremo\" (Butterfly)",
+    "trackId": 39725600
+  }, {
+    "isrc": "GBAYC1402629",
+    "title": "Giordano: Andrea Chénier, Act 3: \"La mamma morta\" (Maddalena)",
+    "trackId": 39725601
+  }, {
+    "isrc": "GBAYC1402630",
+    "title": "Puccini: La bohème, Act 3: \"Donde lieta uscì al tuo grido d'amore\" (Mimì)",
+    "trackId": 39725602
+  }, {
+    "isrc": "GBAYC1402631",
+    "title": "Cilea: Adriana Lecouvreur, Act 1: \"Ecco: respiro appena...Io son l'umile ancella\" (Adriana Lecouvreur)",
+    "trackId": 39725605
+  }, {
+    "isrc": "GBAYC1401980",
+    "title": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono ... Ardon gli incensi\" (Lucia, Raimondo, Normanno, Chorus)",
+    "trackId": 39725607
+  }, {
+    "isrc": "GBAYC1402632",
+    "title": "Verdi: Il trovatore, Act 4: \"D'amor sull'ali rosee\" (Leonora)",
+    "trackId": 39725608
+  }, {
+    "isrc": "GBAYC1402633",
+    "title": "Verdi: Otello, Act 4: \"Ave Maria\" (Desdemona)",
+    "trackId": 39725610
+  }, {
+    "isrc": "GBAYC1402634",
+    "title": "Rossini: Il barbiere di Siviglia, Act 1: \"Una voce poco fa\" (Rosina)",
+    "trackId": 39725612
+  }, {
+    "isrc": "GBAYC1402635",
+    "title": "Gluck: Orphée et Eurydice, Act 4: \"J'ai perdu mon Eurydice\" (Orfeo)",
+    "trackId": 39725614
+  }, {
+    "isrc": "GBAYC1402636",
+    "title": "Saint- Saëns: Samson et Dalila, Act 2: \"Mon coeur s'ouvre à ta voix\" (Dalila)",
+    "trackId": 39725615
+  }, {
+    "isrc": "GBAYC1402637",
+    "title": "Bizet: Carmen,  Act 2: \"Les tringles des sistres tintaient\" (Camen, Frasquita, Mercédès)",
+    "trackId": 39725617
+  }],
+  "source": "http://metadata-store.prod.svc.7d/metadata/18/2015-06-09/825646339921.xml",
+  "labelGroupName": "Warner",
+  "labelGroupId": 18,
+  "labelName": "Warner Classics",
+  "labelId": 558,
+  "upcCode": "825646339921"
+},
+{
+  "productId": 3820854,
+  "lastModified": "2015-10-07T15:55:29.477Z",
+  "tracks": [{
+    "isrc": "GBAYC1402623",
+    "title": "Bizet: Carmen, Act 1: \"L'amour est un oiseau rebelle\" (Carmen, Chorus) [Habanera]",
+    "trackId": 39725588
+  }, {
+    "isrc": "GBAYC1401979",
+    "title": "Bellini: Norma, Act 1: \"Casta diva\" (Norma, Chorus)",
+    "trackId": 39725589
+  }, {
+    "isrc": "GBAYC1402624",
+    "title": "Puccini: Gianni Schicchi, Act 1: \"O mio babbino caro\" (Lauretta)",
+    "trackId": 39725591
+  }, {
+    "isrc": "GBAYC1402625",
+    "title": "Catalani: La Wally, Act 1: \"Ebben?...Ne andrò lontana\" (Wally)",
+    "trackId": 39725593
+  }, {
+    "isrc": "GBAYC1402638",
+    "title": "Verdi: La traviata, Act 1: \"Ah fors'e lui\" (Violetta)",
+    "trackId": 39725596
+  }, {
+    "isrc": "GBAYC1402626",
+    "title": "Verdi: La traviata, Act 1: \"Sempre libera\" (Violetta, Alfredo)",
+    "trackId": 39725597
+  }, {
+    "isrc": "GBAYC1402627",
+    "title": "Puccini: Tosca, Act 2: \"Vissi d'arte\" (Tosca)",
+    "trackId": 39725599
+  }, {
+    "isrc": "GBAYC1402628",
+    "title": "Puccini: Madama Butterfly, Act 2: \"Un bel di vedremo\" (Butterfly)",
+    "trackId": 39725600
+  }, {
+    "isrc": "GBAYC1402629",
+    "title": "Giordano: Andrea Chénier, Act 3: \"La mamma morta\" (Maddalena)",
+    "trackId": 39725601
+  }, {
+    "isrc": "GBAYC1402630",
+    "title": "Puccini: La bohème, Act 3: \"Donde lieta uscì al tuo grido d'amore\" (Mimì)",
+    "trackId": 39725602
+  }, {
+    "isrc": "GBAYC1402631",
+    "title": "Cilea: Adriana Lecouvreur, Act 1: \"Ecco: respiro appena...Io son l'umile ancella\" (Adriana Lecouvreur)",
+    "trackId": 39725605
+  }, {
+    "isrc": "GBAYC1401980",
+    "title": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono ... Ardon gli incensi\" (Lucia, Raimondo, Normanno, Chorus)",
+    "trackId": 39725607
+  }, {
+    "isrc": "GBAYC1402632",
+    "title": "Verdi: Il trovatore, Act 4: \"D'amor sull'ali rosee\" (Leonora)",
+    "trackId": 39725608
+  }, {
+    "isrc": "GBAYC1402633",
+    "title": "Verdi: Otello, Act 4: \"Ave Maria\" (Desdemona)",
+    "trackId": 39725610
+  }, {
+    "isrc": "GBAYC1402634",
+    "title": "Rossini: Il barbiere di Siviglia, Act 1: \"Una voce poco fa\" (Rosina)",
+    "trackId": 39725612
+  }, {
+    "isrc": "GBAYC1402635",
+    "title": "Gluck: Orphée et Eurydice, Act 4: \"J'ai perdu mon Eurydice\" (Orfeo)",
+    "trackId": 39725614
+  }, {
+    "isrc": "GBAYC1402636",
+    "title": "Saint- Saëns: Samson et Dalila, Act 2: \"Mon coeur s'ouvre à ta voix\" (Dalila)",
+    "trackId": 39725615
+  }, {
+    "isrc": "GBAYC1402637",
+    "title": "Bizet: Carmen,  Act 2: \"Les tringles des sistres tintaient\" (Camen, Frasquita, Mercédès)",
+    "trackId": 39725617
+  }],
+  "source": "http://metadata-store.prod.svc.7d/metadata/18/2015-06-09/825646339921.xml",
+  "labelGroupName": "Warner",
+  "labelGroupId": 18,
+  "labelName": "Warner Classics",
+  "labelId": 558,
+  "upcCode": "825646339922"
+}]
