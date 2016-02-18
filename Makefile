@@ -3,6 +3,9 @@ MONGO=mongodb://mongo-mosql/classical
 CONFIG=classical.yml
 USER=postgres
 
+build:
+	docker build -t mosql .
+
 launch-pg:
 	docker run -d \
 	  --name pg-mosql \
@@ -21,7 +24,7 @@ setup-mongo:
 	docker exec mongo-mosql mongoimport --db classical --collection contributions --drop --file /import/contributions.json --jsonArray
 	docker exec mongo-mosql mongo localhost/classical /import/indexes.js
 
-setup: launch-pg launch-mongo setup-mongo
+setup: build launch-pg launch-mongo setup-mongo
 
 connect:
 	docker run -it --rm \
