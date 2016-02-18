@@ -1,0 +1,15 @@
+classical:
+  artists:
+    :columns:
+      - id:
+        :source: _id
+        :type: TEXT
+      - mbid: TEXT
+      - aliases: JSON
+      - sortName: TEXT
+      - fullName: TEXT
+      - type: TEXT
+      - lastModified: DATE
+    :meta:
+      :table: artists
+      :extra_props: true
